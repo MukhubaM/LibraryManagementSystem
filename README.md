@@ -24,9 +24,9 @@ It demonstrates core concepts such as object-oriented programming, CRUD operatio
 
 ## 🗂️ Project Structure
 - `Book.java` → Model class representing a book.  
-- `LibraryDao.java` → Handles CRUD operations and file serialization.  
-- `LibraryGUI.java` → Swing-based graphical interface for user interaction.  
-- `LibraryManagementSystem.java` → Main entry point to run the application.  
+- `Library.java` → Handles CRUD operations and file serialization.  
+- `Member.java` → Swing-based graphical interface for user interaction.  
+- `LibraryApp.java` → Main entry point to run the application.  
 
 ---
 
